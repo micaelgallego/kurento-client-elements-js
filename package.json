@@ -25,8 +25,5 @@
   "dependencies": {
     "inherits": "^2.0.1",
     "kurento-client-core":"5.0.0"
-  },
-  "peerDependencies": {
-    "kws-media-api": "^5.0.0-dev"
   }
 }
